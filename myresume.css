@@ -1,0 +1,128 @@
+body {
+    background: rgb(18, 17, 17); 
+  }
+page {
+    float: left;
+    background:rgb(165, 165, 244);
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+  }
+page[size="A4"] {  
+    width: 21cm;
+    height: 29.7cm; 
+  }
+  img.rounded-corners {
+    float: left;
+    width: 300px;
+    height: 300px;
+    border-radius: 0 50% 50% 50%;
+    border: 5px solid #544feb; 
+  }
+.top{
+    background: #3f3d4b;
+}
+.top .name h1{
+    font-size: 50px;
+    color: #edecf3;
+    font-family:'Times New Roman', Times, serif;
+}
+.top .name h2{
+    font-size: 20px;
+    color: #046a84;
+    font-family: cursive;
+}
+.left{
+    float:left;
+    background: #544feb;
+    width: 300px;
+    height: 811px;
+}
+.left .contact h1{
+    font-size: 20px;
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #bdbbf6;
+}
+img.phone{
+    float:left;
+    height:27px;
+    width: 27px;
+}
+.left .contact p1{
+font-size:20px ;
+}
+img.location{
+    float:left;
+    height:27px;
+    width: 27px; 
+}
+.left .contact p2{
+    font-size:20px ;
+    }
+.left .contact p3{
+    font-size:19px ;
+    }
+img.mail{
+    float:left;
+    height:27px;
+    width: 27px; 
+}
+.left .contact p4{
+    font-size:14px ;
+    }
+img.linkedin{
+    float:left;
+    height:27px;
+    width: 27px; 
+}
+.left .techskill h1{
+    font-size: 20px;
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #bdbbf6;
+}
+.left .techskill p{
+    font-size: 18px;
+}
+
+.left .proskill h1{
+    font-size: 20px;
+    color: #000000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background: #bdbbf6;
+}
+.left .proskill p{
+    font-size: 18px;
+}
+.right .edu h1{
+    font-size: 20px;
+}
+.edu p1{
+    font-size: 15px;
+}
+.cou h1{
+    font-size: 20px;
+}
+.pro h1{
+    font-size: 20px;
+}
+.pro p1{
+    font-size: 15px;
+}
+.cou p1{
+    font-size: 15px;
+}
+.per p1{
+    font-size: 15px;
+}
+.per h1{
+    font-size: 20px;
+}
+.lang p1{
+    font-size: 15px;
+}
+.lang h1{
+    font-size: 20px;
+}
